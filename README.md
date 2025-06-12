@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=rust,html,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,html,js,python)](https://skillicons.dev)
 <!--
 **gaelgnz/gaelgnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
